@@ -25,7 +25,7 @@ Start big and then go into detail:
 3. Go to that folder and right-click on it (don’t go into the file). You may need to click on “Show more options,” but you are looking for the “Open with Code” option.
 4. Now that we are in Visual Studio Code, we can now look at our explorer. If you opened the project correctly, you will only see the folder that has our repository name.
 5. Right-click in the white space in your explorer and then select “New File” (you can also do this by clicking on the new file button to the right of the folder name) and name it “index. html”
-To set up the starting HTML for the page, type ! and then hit enter. This will give you the boilerplate code for your HTML, -- including the <html> tag, <head> tag, and <body> tag
+-- To set up the starting HTML for the page, type ! and then hit enter. This will give you the boilerplate code for your HTML, including the <html> tag, <head> tag, and <body> tag
 6. Do #5 one more time, but this time, name the file “site.css” (and don’t do the HTML setup)
 7. Be sure to link the two files by adding the <link> tag to the head of index.html with a reference to site.css. 
 8. Now you are ready to go! This should be fun, so what can you add (beyond the requirements) that will show your viewers who you are?
